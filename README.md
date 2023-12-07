@@ -2,7 +2,8 @@
 
 This repository contains a detailed sample app that implements VIPER architecture using
  - Alamofire: https://github.com/Alamofire/Alamofire
- - TODO: // add Another libs used.
+ - PromiseKit: https://github.com/mxcl/PromiseKit
+ - R.swift: https://github.com/mac-cain13/R.swift
 <br>
 <br>
 
