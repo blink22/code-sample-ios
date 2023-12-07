@@ -9,7 +9,7 @@ This repository contains a detailed sample app that implements VIPER architectur
 
 # Architecture
 <p align="center">
-  <img src="/docs/images/clean-architecture.png">
+  <img width="600" height="814" src="/docs/images/clean-architecture.png">
 </p>
 <p align="center">
   <img src="/docs/images/viper-architecture.png">
