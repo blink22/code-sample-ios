@@ -1,0 +1,53 @@
+### Xcode ###
+## Build generated
+build/
+DerivedData
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcuserdata
+**/xcuserdata/*
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.xcscmblueprint
+
+## Pods
+Pods/
+Carthage/Build
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Applications
+*.app
+*.exe
+*.war
+
+iOSInjectionProject/
+
+*.DS_Store
+
+Pods/
+*.lock
+*/Pods/*
+R\.generated\.swift
+*/R.generated.swift
+
+## ApolloCodegen
+ApolloCodegen/ApolloCLI
